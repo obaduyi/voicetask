@@ -35,7 +35,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>Voice-Controlled Task List</h1>
+      <h1>VoiceList</h1>
 
       <div className="input-container">
         <input
